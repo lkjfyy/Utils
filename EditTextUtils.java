@@ -1,4 +1,4 @@
-package com.fanyalianmeng.master.utils;
+
 
 import android.text.Editable;
 import android.text.TextUtils;
